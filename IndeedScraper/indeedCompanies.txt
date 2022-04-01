@@ -1,0 +1,2 @@
+0: name: "TallSky Consulting" overallRating: 5.0 numberOfRating: 2 compensationRating: None cultureRating: None securityAdvancementRating: None managementRating: None workLifeBalanceRating: None
+1: name: "Staff Shop" overallRating: 4.6 numberOfRating: 16 compensationRating: 4.2 cultureRating: 4.7 securityAdvancementRating: 3.7 managementRating: 4.3 workLifeBalanceRating: 4.3
