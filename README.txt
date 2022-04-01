@@ -7,4 +7,4 @@ The "IndeedScraper.lnk" shortcut has been included to run the program without ne
 
 Running the program will update the "Jobs.sqlite" database that can be viewed with DB Browser for SQLite.
 
-Unfortunately, school has prevented me from making a proper project that would show my current abilities, but I hope that this shows some of my passion for programming. I spent my entire winter break learning Python and using that knowledge in 8 hour long sessions of creating programs like this, all purely because I loved the challenge it brought and the rich problem-solving it required.
+Unfortunately, school has prevented me from making a proper project that would show my current abilities, but I hope that this shows some of my passion for programming. I spent my entire winter break learning Python and using that knowledge in 8 hour long sessions of creating programs like this, all purely because I loved the challenge it brought and the rich problem-solving it required. I bring a insatiable passion for learning towards everything I pursue, and I hope you'll allow me to show you that passion.
