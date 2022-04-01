@@ -5,3 +5,5 @@ Since I made it for myself, I haven't added a GUI, and it only works on Windows 
 Unfortunately, school has prevented me from making a proper project that would show my current abilities.
 
 The "IndeedScraper.lnk" shortcut has been included to run the program without needing to have a python interpreter with all the dependencies installed.
+
+Running the program will update the "Jobs.sqlite" database that can be viewed with DB Browser for SQLite.
