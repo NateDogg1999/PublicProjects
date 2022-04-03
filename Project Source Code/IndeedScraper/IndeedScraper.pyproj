@@ -26,20 +26,21 @@
     <Compile Include="Analysis.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Functions\ChromeDriver.py" />
     <Compile Include="config.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Database.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DriverFunctions.py">
+    <Compile Include="Functions\DriverFunctions.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="FileWriter.py">
+    <Compile Include="Functions\FileWriter.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="IndeedScraper.py" />
-    <Compile Include="keywordFinder.py">
+    <Compile Include="Functions\keywordFinder.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Scraper.py">
@@ -49,6 +50,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="UnusedCode.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Functions\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
