@@ -1,1 +1,17 @@
-0: 
+0: jobTitle: "WEB DEVELOPER" salary: 28.5 company_name: None permanent: -1 fullTime: -1 remote: -1 jobLink: https://ca.indeed.com/viewjob?jk=847ef3c4990c2e8c yearPosted: None monthPosted: None dayPosted: None description: JOB REQUIREMENTS
+Education
+Bachelor's degree
+Experience
+2 years to less than 3 years
+Specific Skills
+Prepare mock-ups and storyboards
+Consult with clients to develop and document Website requirements
+1: jobTitle: "Web developer" salary: 27.083333333333332 company_name: Glenwood Meats permanent: -1 fullTime: -1 remote: -1 jobLink: https://ca.indeed.com/viewjob?jk=7714dca4d1eca986 yearPosted: None monthPosted: None dayPosted: None description: or equivalent experience
+Specific Skills
+Research and evaluate a variety of interactive media software products
+Lead and co-ordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity
+Source, select and organize information for inclusion and design the appearance, layout and flow of the Website
+Create and optimize content for Website using a variety of graphics, database, animation and other software
+Develop Website architecture and determine hardware and software requirements
+Plan, design, write, modify, integrate and test Web-site related code
+2: 
